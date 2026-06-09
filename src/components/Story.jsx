@@ -29,7 +29,7 @@ export default function Story() {
           <div className="reveal d1 story-body">
             <p>
               My path to frontend development is anything but conventional. For{" "}
-              <strong>six years</strong> I prepared for the UPSC Civil Services Examination — India's
+              <strong>four years</strong> I prepared for the UPSC Civil Services Examination — India's
               most demanding competitive exam. I cleared through the Mains stage. That journey taught
               me relentless consistency, deep analytical thinking, and how to break any complex
               problem into structured parts.
@@ -48,7 +48,7 @@ export default function Story() {
             <div className="story-quote">
               <span className="bar" />
               <p>
-                "Six years of UPSC preparation taught me that consistent, structured effort produces
+                "Four years of UPSC preparation taught me that consistent, structured effort produces
                 extraordinary results — in civil services and in code."
               </p>
             </div>
