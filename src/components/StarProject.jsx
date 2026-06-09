@@ -20,7 +20,7 @@ const PROJECTS = [
   },
   {
     id: "razorpay",
-    shot: "/Images/projects/razorpay.webp",
+    shot: "/Images/projects/razorPay.webp",
     alt: "Razorpay payment gateway landing page",
     eyebrow: "Payment Gateway Landing Page",
     title: "Razorpay",
